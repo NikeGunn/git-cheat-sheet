@@ -3,7 +3,6 @@ Git Commands
 
 ## Translated Versions
 - [नेपाली अनुवाद](READMEne.md)
-- [العربية](READMEar.md)
 
 ___
 
