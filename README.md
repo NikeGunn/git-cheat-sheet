@@ -2,7 +2,7 @@ Git Commands
 ============
 
 ## Translated Versions
-- [नेपाली अनुवाद](READMEhi.md)
+- [नेपाली अनुवाद](READMEne.md)
 - [العربية](READMEar.md)
 
 ___
