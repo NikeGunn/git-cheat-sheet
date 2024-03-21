@@ -52,14 +52,14 @@ _बिसेशरी उपयोग गरिने गिट कमांड
 
 | कमान्ड | विवरण |
 | ----- | ----- |
-| `git push origin [branch name]` | अपने रिमोट रिपॉजिटरी में ब्रांच को पुश करें |
-| `git push -u origin [branch name]` | रिमोट रिपॉजिटरी में ब्रांच को पुश करें (और उसी ब्रांच को याद रखे) |
-| `git push` | रिमोट रिपॉजिटरी में ब्रांच को पुश करें (उसी याद की गई ब्रांच में) |
-| `git push origin --delete [branch name]` | एक रिमोट ब्रांच को डिलीट करे |
-| `git pull` | अपनी लोकल रिपॉजिटरी को लेटेस्ट कमिट में अपडेट करें |
-| `git pull origin [branch name]` | रिमोट रिपॉजिटरी में से चैन्जश पुल करे |
-| `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | एक रिमोट रिपॉजिटरी जोड़ें |
-| `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | रिपॉजिटरी की ओरिजिन ब्रांच को SSH पर सेट करें |
+| `git push origin [branch name]` | अपने रिमोट रिपॉजिटरी मा ब्रांच लाई पुश गरौं |
+| `git push -u origin [branch name]` | रिमोट रिपॉजिटरी मा ब्रांच लाई पुश गरौं (अनि तेइ ब्रांच लाई याद राखौं) |
+| `git push` | रिमोट रिपॉजिटरी मा ब्रांच लाई पुश गरौं (तेई याद गरिएको ब्रांच मा) |
+| `git push origin --delete [branch name]` | एक रिमोट ब्रांच लाई डिलीट गरौं |
+| `git pull` | आफ्नो लोकल रिपॉजिटरी लाई लेटेस्ट कमिट मा अपडेट गरौं |
+| `git pull origin [branch name]` | रिमोट रिपॉजिटरी देखिँ चैन्जश पुल गरौं |
+| `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | एक रिमोट रिपॉजिटरी जोडौं |
+| `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | रिपॉजिटरी को ओरिजिन ब्रांच को SSH मा सेट गरौं |
 
 ### निरीक्षण और तुलना
 
