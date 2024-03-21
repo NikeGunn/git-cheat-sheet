@@ -32,23 +32,23 @@ _बिसेशरी उपयोग गरिने गिट कमांड
 
 | कमान्ड | विवरण |
 | ----- | ----- |
-| `git branch` | ब्रांचश की सूची बनाएं (ऐस्टरिस्क[*] साइन वर्तमान शाखा को दर्शाता है) |
-| `git branch -a` | सभी ब्रांचश की सूची बनाएं (लोकल और रिमोट) |
-| `git branch [branch name]` | एक नई ब्रांच बनाएँ |
-| `git branch -d [branch name]` | एक ब्रांच डिलीट करे |
-| `git push origin --delete [branch name]` | एक रिमोट ब्रांच हटाएं |
-| `git checkout -b [branch name]` | एक नई ब्रांच बनाएं और उसमें स्विच करें |
-| `git checkout -b [branch name] origin/[branch name]` | एक रिमोट ब्रांच को क्लोन करें और उसमें स्विच करें |
-| `git branch -m [old branch name] [new branch name]` | एक रिमोट ब्रांच का नाम बदलें |
-| `git checkout [branch name]` | एक ब्रांच पर स्विच करें |
-| `git checkout -` | पिछली बार चेक आउट की गई ब्रांच में स्विच करें |
-| `git checkout -- [file-name.txt]` | किसी एक फ़ाइल में सभी परिवर्तन निकालें |
-| `git merge [branch name]` | एक ब्रांच को ऐक्टिव ब्रांच में मर्ज करें |
-| `git merge [source branch] [target branch]` | एक ब्रांच को टार्गेट ब्रांच में मर्ज करें |
-| `git stash` | वर्किंग फोल्डर में चैन्जश को स्टैश करें |
-| `git stash clear` | सभी स्टैश चैन्जश हटाएं |
+| `git branch` | ब्रांचश को सूची बनाऊँ (ऐस्टरिस्क[*] साइन वर्तमान शाखा लाई दर्साउछ ) |
+| `git branch -a` | सपैँ ब्रांचश अनि सूची बनाऊँ (लोकल अनि रिमोट) |
+| `git branch [branch name]` | एक नयाँ ब्रांच बनाऊँ |
+| `git branch -d [branch name]` | एक ब्रांच डिलीट गरौं |
+| `git push origin --delete [branch name]` | एक रिमोट ब्रांच हटाओं |
+| `git checkout -b [branch name]` | एक नयाँ ब्रांच बनाओं अनि तेस्मा स्विच गरौं |
+| `git checkout -b [branch name] origin/[branch name]` | एक रिमोट ब्रांच को क्लोन गरौं अनि तेस्मा स्विच गरौं |
+| `git branch -m [old branch name] [new branch name]` | एक रिमोट ब्रांच का नाम बदलौँ |
+| `git checkout [branch name]` | एक ब्रांच मा स्विच गरौं |
+| `git checkout -` | पछील्लो चोटी चेक आउट गरिएको ब्रांच मा स्विच गरौं |
+| `git checkout -- [file-name.txt]` | कुनै एक फ़ाइल मा सपैँ परिवर्तन निकलौँ |
+| `git merge [branch name]` | एक ब्रांच को ऐक्टिव ब्रांच मा मर्ज गरौं |
+| `git merge [source branch] [target branch]` | एक ब्रांच को टार्गेट ब्रांच मा मर्ज गरौं |
+| `git stash` | वर्किंग फोल्डर मा चैन्जश को स्टैश गरौं |
+| `git stash clear` | सपैँ स्टैश चैन्जश हटाओं ( clear ) |
 
-### प्राजेक्ट्स को शेर और अप्डेट करना
+### प्राजेक्ट्स लाई शेर अनि अप्डेट गर्ने तरिका 
 
 | कमान्ड | विवरण |
 | ----- | ----- |
